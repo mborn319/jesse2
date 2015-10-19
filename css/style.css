@@ -193,6 +193,12 @@ nav #menuIcon {
 main {
     background: #fff;
 }
+main h1, main h2, main h3 {
+    color: #6C3333;
+}
+main h2 {
+    text-align: center;
+}
 main img {
     max-width: 100%;
 
